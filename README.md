@@ -1,5 +1,6 @@
 # Python_zero_to_hero
 ## Variables Declaration Example
+Variables are used to store data in a program. In Python, you don’t need to explicitly declare the type of a variable—Python automatically determines it based on the value assigned. Variables can hold different types of data such as strings (text), integers (numbers), and more. The examples below demonstrate how variable declaration works with strings and numbers, and how operations like addition behave differently depending on the data type.
 
 ```python
 # String variables
