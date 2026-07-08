@@ -11,3 +11,8 @@ syntax of while loop
 while [contion]:
     print("do something")
 ```
+
+
+
+while [contion]:
+    print("do something")
