@@ -20,9 +20,21 @@ print(c + d)
 print("#######################################################")
 
 # String numbers
+
+
 e = "2"
 f = "4"
 
 print(e + f)
 
 print("#######################################################")
+
+# While loop
+## sytax of while
+
+'''
+while [condition]:
+    print("do something")
+'''
+
+while loop is used for looping over data for certian time or 
