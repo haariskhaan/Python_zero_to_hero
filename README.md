@@ -14,6 +14,4 @@ while [contion]:
 
 
 
-while [contion]:
 
-    print("do something")
